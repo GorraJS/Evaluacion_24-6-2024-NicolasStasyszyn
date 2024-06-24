@@ -8,6 +8,9 @@ export default function Ejercicio3() {
       <p>Algunas materias de quinto año:</p>
       <ul>
       <Mensaje/>
+      <Mensaje/>
+      <Mensaje/>
+      <Mensaje/>
       </ul>
     </div>
   )
