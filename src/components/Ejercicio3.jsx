@@ -1,4 +1,5 @@
 import React from 'react'
+import Mensaje from './ElementoLista'
 
 export default function Ejercicio3() {
   return (
@@ -6,7 +7,7 @@ export default function Ejercicio3() {
       <h2>Ejercicio 3: Modularización</h2>
       <p>Algunas materias de quinto año:</p>
       <ul>
-        {/* lista de materias */}
+      <Mensaje/>
       </ul>
     </div>
   )
